@@ -1,0 +1,7 @@
+main: com.gigabytedx.Main
+version: 1.1
+name: TeleportWand
+
+commands:
+  getwand:
+    description: gives a player a wand
